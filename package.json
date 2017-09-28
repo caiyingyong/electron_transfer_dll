@@ -1,0 +1,10 @@
+{
+  "name": "electron",
+  "version": "0.1.0",
+  "main": "main.js",
+  "dependencies": {
+    "ffi": "^2.2.0",
+    "electron-rebuild": "^1.6.0",
+    "electron-prebuilt":"latest"
+  }
+}
